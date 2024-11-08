@@ -4,7 +4,7 @@
 
 Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no IFCE. Sou curioso e apaixonado por tecnologia, cinéfilo, gamer, esportista, amante de IA e também um desenvolvedor independente full-stack construindo minha versão do mundo digital passo a passo, sempre procurando aprender sobre coisas novas e fazer novas interações, estou disponivel para trocar ideias,conhecimentos e colaborar em projetos.
 
-<img src="https://media.tenor.com/VlPKTXWkwq8AAAAM/cat-crazy-cat.gif" width="300"/>
+![Gato Digitando](https://media.tenor.com/VlPKTXWkwq8AAAAM/cat-crazy-cat.gif)
 
 ## Contatos:
 
