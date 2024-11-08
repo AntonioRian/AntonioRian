@@ -178,10 +178,10 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
 
 
 
-    
+<div align="center">  
 ![snake gif](https://github.com/TechnologyHell/AntonioRian/blob/output/github-snake-dark.svg)
 
-
+</div>
 
 <!-- Counter -->
 <div align="center">
