@@ -155,6 +155,15 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
 <br/>
 <br/>
 
+<!-- Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=antoniorian&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
+
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <div>
@@ -175,19 +184,11 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
 
 </div>
 
-
-<div>
-  <p>
-    
-  </p>
-</div>
-
+<br/>
+<br/>
+<br/>
 
 ![snake gif](https://github.com/AntonioRian/AntonioRian/blob/output/github-contribution-grid-snake.gif)
-<!-- Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=antoniorian&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
+
 
 
