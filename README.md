@@ -184,6 +184,11 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
 
 </div>
 
+<!-- Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=antoniorian&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 
 <br/>
 <br/>
