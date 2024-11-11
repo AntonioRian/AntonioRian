@@ -184,7 +184,7 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
 
 </div>
 
-<p> Formado em Analise e Desenvolvimento de Sistemas, Arquitetura de Software e Desenvolvimento Web Full Stack.</p>
+
 <br/>
 <br/>
 <br/>
