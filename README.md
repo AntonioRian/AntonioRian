@@ -191,11 +191,7 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
   <br/> 
 </p>
 <br/>
-<br/>
-<br/>
-<br/>
 
-### 🤖 Linguagens e Tecnologias
 
 ![snake gif](https://github.com/AntonioRian/AntonioRian/blob/output/github-contribution-grid-snake.gif)
 
