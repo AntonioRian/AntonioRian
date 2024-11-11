@@ -184,13 +184,13 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
   [![](https://visitcount.itsvg.in/api?id=antoniorian&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 
-<p> Formado em Analise e Desenvolvimento de Sistemas, Arquitetura de Software e Desenvolvimento Web Full Stack.</p>
 
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
+
+### 🤖 Linguagens e Tecnologias
 
 ![snake gif](https://github.com/AntonioRian/AntonioRian/blob/output/github-contribution-grid-snake.gif)
 
