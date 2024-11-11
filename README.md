@@ -190,9 +190,9 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
 
 <br/>
 <br/>
-<br/>
-<br/> <!-- Esse espaço adicional vai ajudar a separar as estatísticas do snake gif -->
 
-![snake gif](https://github.com/AntonioRian/AntonioRian/blob/output/github-contribution-grid-snake.gif)
+<div style="margin-top: 50px;">
+  ![snake gif](https://github.com/AntonioRian/AntonioRian/blob/output/github-contribution-grid-snake.gif)
+</div>
 
 
