@@ -179,20 +179,16 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
 </div>
 
 <!-- Counter -->
-<div align="center">
+<div align="left">
   
   [![](https://visitcount.itsvg.in/api?id=antoniorian&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 
-<p> 
   <br/>
   <br/>
   <br/>
-  <br/> 
-</p>
-<br/>
-<br/>
-<br/>
+
+
 
 
 ![snake gif](https://github.com/AntonioRian/AntonioRian/blob/output/github-contribution-grid-snake.gif)
