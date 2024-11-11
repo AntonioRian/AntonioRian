@@ -176,12 +176,8 @@ Me chamo Antonio Rian e atualmente estou cursando Sistemas de informações no I
 </div>
 
 
+![snake gif](https://github.com/AntonioRian/AntonioRian/blob/output/github-contribution-grid-snake.gif)
 
-
-<div align="center">  
-![snake gif](https://github.com/antoniorian/antoniorian/blob/output/github-contribution-grid-snake.gif)
-
-</div>
 
 <!-- Counter -->
 <div align="center">
